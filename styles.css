@@ -11,7 +11,16 @@ div{
 }
 
 .bottomBlueBox{
+    display: flex;
     margin: 40px;
     display: flex;
-    background-color: blue;
+    background-color: #3882f6;
+}
+
+.whiteBoxes{
+    background-color: white;
+}
+.blueBoxMessage{
+    display: flex;
+    flex-direction: column;
 }
